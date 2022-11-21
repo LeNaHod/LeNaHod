@@ -12,9 +12,9 @@ Project List here↓
 
 - 시간대별 이용현황 패턴분석을 통한 이용용도/최다 대여,반납 거치대를 알수있다.
 
-[More](https://github.com/LeNaHod/Project)
+[Project1_More](https://github.com/LeNaHod/Project)
 
-[대시보드](http://joohyoung.pythonanywhere.com/)
+[DashBoard](http://joohyoung.pythonanywhere.com/)
 
 # Project_2(2022-11-21 ~ 2022-12-12)
 
