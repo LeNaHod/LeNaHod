@@ -28,5 +28,32 @@ Project List here↓
 [Project2_More](https://github.com/LeNaHod/Project_2)
 
 
-# Project_3
+# Project_3(2022-12-13 ~ 2023-01-27)
+
+## Service Name: 슬기로운 집사생활 
+
+반려동물 안구질환여부를 이미지 분류로 무/초기/중기/성숙 총 4단계로 판별하는 서비스를 중심으로, 반려동물을 키울때 유용한정보들을 함께 제공하는 웹 서비스를 구축
+
+↓유용한정보들 리스트
+
+- 반려동물 복지 뉴스요약서비스, 반려동물 상식 제공, 동물병원 위치를 지도와 리스트형식으로 제공, 반려동물 안구 사진업로드 시, 안구질환(강아지/백내장) 여부 판별,회원가입을 통한 Mypage기능으로 판별 히스토리제공
+
+### Main Page
+![슬기로운 집사생활 Main](/project_3_main_gif.gif)
+
+### Medical Page
+![슬기로운 집사생활 Medical](/project_3_medical_gif.gif)
+
+### Service Page
+![슬기로운 집사생활 Service](/project_3_service_gif.gif)
+
+### Mypage 
+![슬기로운 집사생활 Mypage](/project_3_myapge_gif.gif)
+
+### Sign Up
+![슬기로운 집사생활 Sign Up](/project_3_member_1.PNG)
+
+
+[Project3_More](https://github.com/LeNaHod/Project3)
+
 
