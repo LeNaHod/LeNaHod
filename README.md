@@ -29,7 +29,7 @@ Project List here↓
 
 
 # Project_3(2022-12-13 ~ 2023-01-27)
-
+[서비스 시연영상](https://www.youtube.com/watch?v=pI_dkQX9XOw)
 ## Service Name: 슬기로운 집사생활 
 
 반려동물 안구질환여부를 이미지 분류로 무/초기/중기/성숙 총 4단계로 판별하는 서비스를 중심으로, 반려동물을 키울때 유용한정보들을 함께 제공하는 웹 서비스를 구축
