@@ -54,6 +54,6 @@ Project List here↓
 ![슬기로운 집사생활 Sign Up](/project_3_member_1.PNG)
 
 
-[Project3_More](https://github.com/LeNaHod/Project3)
+[Project3_More](https://github.com/LeNaHod/petservice)
 
 
