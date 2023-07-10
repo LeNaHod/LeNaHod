@@ -14,7 +14,6 @@ Project List here↓
 
 [Project1_More](https://github.com/LeNaHod/Project)
 
-[DashBoard](http://joohyoung.pythonanywhere.com/)
 
 # Project_2(2022-11-21 ~ 2022-12-12)
 
