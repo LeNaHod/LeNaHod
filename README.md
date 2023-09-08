@@ -26,8 +26,19 @@ Project List here↓
 [Project2_More](https://github.com/LeNaHod/Project_2)
 
 
-# Project_3(2022-12-13 ~ 2023-01-27)
+# [Previous]Project_3(2022-12-13 ~ 2023-01-27)
+
+[Previous_Project_3_More](https://github.com/LeNaHod/petservice)
+
+# (NEW) GCP Pet Project_3(2023-05~)
+
+위의 기존 Project3 , petservice를 진행하면서 아쉬웠던부분 + 보완,추가할점을 지속 개발하고있는 버전.
+비정기 지속 업데이트.
+
+[New_Project3_More](https://github.com/LeNaHod/New-Gcp-PetProject)
+
 [서비스 시연영상](https://www.youtube.com/watch?v=pI_dkQX9XOw)
+
 ## Service Name: 슬기로운 집사생활 
 
 반려동물 안구질환여부를 이미지 분류로 무/초기/중기/성숙 총 4단계로 판별하는 서비스를 중심으로, 반려동물을 키울때 유용한정보들을 함께 제공하는 웹 서비스를 구축
@@ -51,14 +62,15 @@ Project List here↓
 ### Sign Up
 ![슬기로운 집사생활 Sign Up](/project_3_member_1.PNG)
 
-
-[Project3_More](https://github.com/LeNaHod/petservice)
-
-## Service 보완
-
+### Service 보완
 엘라스틱서치 다듬기 -> O
 하둡 워커 늘려서 재구축 -> O
+웹 서비스에 도메인 추가 -> O
+웹 서비스에 HTTPS인증서 추가 -> O
+지도, 로드밸런서기능 보완 및 추가 -> O 
 Kafka로 트위터 API 실시간 데이터 수집 ->X
+
+
 
 
 
