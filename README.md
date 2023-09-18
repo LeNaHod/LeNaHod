@@ -30,7 +30,7 @@ Project List here↓
 
 [Previous_Project_3_More](https://github.com/LeNaHod/petservice)
 
-# (NEW) GCP Pet Project_3(2023-05~)
+# [NEW] GCP Pet Project_3(2023-05~)
 
 위의 기존 Project3 , petservice를 진행하면서 아쉬웠던부분 + 보완,추가할점을 지속 개발하고있는 버전.
 비정기 지속 업데이트.
@@ -45,7 +45,11 @@ Project List here↓
 
 ↓유용한정보들 리스트
 
-- 반려동물 복지 뉴스요약서비스, 반려동물 상식 제공, 동물병원 위치를 지도와 리스트형식으로 제공, 반려동물 안구 사진업로드 시, 안구질환(강아지/백내장) 여부 판별,회원가입을 통한 Mypage기능으로 판별 히스토리제공
+- 반려동물 복지 뉴스요약서비스
+- 반려동물 상식 제공
+- 동물병원 위치를 지도와 리스트형식으로 제공 
+- 반려동물 안구 사진업로드 시, 안구질환(강아지/백내장) 여부 판별,
+- 회원가입을 통한 Mypage기능으로 판별 히스토리제공
 
 ### Main Page
 ![슬기로운 집사생활 Main](/project_3_main_gif.gif)
@@ -61,14 +65,6 @@ Project List here↓
 
 ### Sign Up
 ![슬기로운 집사생활 Sign Up](/project_3_member_1.PNG)
-
-### Service 보완
-엘라스틱서치 다듬기 -> O
-하둡 워커 늘려서 재구축 -> O
-웹 서비스에 도메인 추가 -> O
-웹 서비스에 HTTPS인증서 추가 -> O
-지도, 로드밸런서기능 보완 및 추가 -> O 
-Kafka로 트위터 API 실시간 데이터 수집 ->X
 
 
 
